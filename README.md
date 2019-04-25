@@ -5,8 +5,7 @@ DESCRIPTION PLACEHOLDER
 ## What it does
 
 FEATURES PLACEHOLDER
-
-## Getting started
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
